@@ -3,7 +3,7 @@
     /// <summary>
     /// Направления
     /// </summary>
-    enum Directions
+    public enum Directions
     {
         Left,
         Right,

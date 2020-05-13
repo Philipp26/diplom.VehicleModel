@@ -62,7 +62,7 @@ namespace VehicleModel.Classes
                     break;
                 case Directions.UpLeft:
                     MoveHandler.MoveUpLeft(this);
-                    break;
+                    break;                
             }
         }
     }
